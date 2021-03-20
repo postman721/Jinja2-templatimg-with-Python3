@@ -18,7 +18,7 @@ The purpose here is to clarify Jinja2 capabilites clearly without Flask or Ansib
 
 		01_integrated.py == Example with integrated json data.
 		
-		templated folder== 02_read_from_file.py program that reads variables from two variable files: 
+		templated folder == 02_read_from_file.py program that reads variables from two variable files: 
 		
 		readme.py and readme2.py
 				
@@ -32,3 +32,7 @@ OR
 		
 		
 Customize readme python files to change/alter template variables.		
+
+![template](https://user-images.githubusercontent.com/29865797/111887140-b4420200-89db-11eb-82df-f2240f828a1f.png)
+
+Based on variabels the above will get generated.
