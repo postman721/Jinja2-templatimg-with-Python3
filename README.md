@@ -1,5 +1,4 @@
 # Jinja2-templating-with-Python3
-Jinja2 templating with Python3
 
 
 This repository releates to: https://github.com/postman721/flask-restful-jinja2
