@@ -27,6 +27,16 @@ template2 = "Coding with {{language}} is a {{mood}} way to {{action}}."
 j2_template = Template(template2)
 print(j2_template.render(data2))
 
+###########################
+#Write to  data.txt file
+###########################
+x=j2_template.render(data2)
+
+#Write data2 to file
+with open('data.txt', 'a') as file:
+    file.write(x)
+
+
 print("")
 
 print ("And I am just a standard print calling from the end of 02_read_from_file.py and verifying success.")
