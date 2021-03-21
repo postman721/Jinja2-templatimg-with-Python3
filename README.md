@@ -20,7 +20,9 @@ The purpose here is to clarify Jinja2 capabilites clearly without Flask or Ansib
 		templated folder == 02_read_from_file.py program that reads variables from two variable files: 
 		
 		readme.py and readme2.py
-				
+
+02_read_from_file.py also appends readme2.py to a file called data.txt.
+
 <b>Usage:</b>
 
 		python3 01_integrated.py	
