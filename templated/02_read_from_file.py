@@ -40,4 +40,5 @@ with open('data.txt', 'a') as file:
 print("")
 
 print ("And I am just a standard print calling from the end of 02_read_from_file.py and verifying success.")
+
 print ("Appended to data.txt.")
